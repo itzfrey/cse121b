@@ -17,7 +17,10 @@ let myProfile = {
         'Sleeping',
         'Eating'
     ],
-    placesLived: []
+    placesLived: [
+        place: 'Ekpoma'
+        length: '1 year'
+    ]
 };
 
 
