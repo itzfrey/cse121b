@@ -53,7 +53,7 @@ document.querySelector('#photo').setAttribute("alt", myProfile.name);
 /* Favorite Foods List*/
 myProfile.favoriteFoods.forEach(food => {
     let li = document.createElement('li');
-    li.textcontent = food;
+    li.textContent = food;
     document.querySelector('#favorite-foods').appendChild(li);
 });
 
