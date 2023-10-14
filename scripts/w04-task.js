@@ -18,8 +18,8 @@ let myProfile = {
         'Eating'
     ],
     placesLived: [
-        place: 'Ekpoma'
-        length: '1 year'
+        {place: 'Ekpoma', length: '1 year'}
+        
     ]
 };
 
